@@ -6,5 +6,6 @@ if age >=18
   str.write(you are eligible for licence...')
   str.balloos()
   str.snow()
-else 
+else :
 str.write("you qre not eligible")
+:
